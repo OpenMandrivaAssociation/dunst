@@ -1,6 +1,7 @@
+%define _empty_manifest_terminate_build 0
 Name:           dunst
 Version:        1.6.1
-Release:        1
+Release:        2
 Summary:        Customizable and lightweight notification-daemon
 License:        BSD
 Group:          Graphical desktop/Other

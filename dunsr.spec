@@ -8,6 +8,7 @@ Group:          Graphical desktop/Other
 URL:            https://dunst-project.org/
 Source0:        https://github.com/dunst-project/dunst/archive/v%{version}/%{name}-%{version}.tar.gz
 
+BuildRequires:	make
 BuildRequires:  pkgconfig(libxdg-basedir)
 BuildRequires:  pkgconfig(cairo)
 BuildRequires:  pkgconfig(pango)
